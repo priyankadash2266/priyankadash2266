@@ -2,13 +2,15 @@
 
 # Priyanka Dash
 
-### Software Engineer · Applied AI · Backend Systems
+### Backend × AI Engineer
+
+**Product-minded builder · Ex-Fiserv**
 
 Building AI evaluation tools and web products with a focus on reliability, useful workflows, and clear interfaces.
 
-**Bengaluru, India**
+**Bengaluru, India · Open to full-time roles & freelance work**
 
-[Portfolio](https://priyanka-dash-portfolio.vercel.app/) · [Featured work](#selected-work) · [Engineering background](#engineering-background)
+[Portfolio](https://priyanka-dash-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/priyanka-dash-6aaa9b223/) · [LeetCode](https://leetcode.com/u/priyanka_0612/) · [X](https://x.com/us_moments_girl)
 
 </div>
 
@@ -16,7 +18,7 @@ Building AI evaluation tools and web products with a focus on reliability, usefu
 
 ## About me
 
-I'm a software engineer with experience in core-banking systems and a growing body of work across AI tooling and full-stack products. My projects span evaluating LLM outputs, turning spoken ideas into manuscripts, and organizing incident investigations.
+I'm a software engineer focused on backend systems and applied AI, with experience in core banking and a growing body of work across AI tooling and full-stack products. My projects span evaluating LLM outputs, turning spoken ideas into manuscripts, and organizing incident investigations.
 
 I'm especially interested in what makes software dependable: explicit interfaces, access control, useful tests, and understanding how a system behaves when something goes wrong.
 
@@ -82,20 +84,23 @@ A foundation release for documenting root-cause analyses, tracing evidence, and 
 
 ## Engineering background
 
-My experience includes work on Fiserv's Signature core-banking platform using IBM i, RPGLE, and SQL. That background informs my interest in data correctness, validation, and dependable backend behavior.
+Previously, I worked as a **Technology Analyst / AS400 Developer at Fiserv**, on the Signature core-banking platform using IBM i, RPGLE, and SQL. That background informs my interest in data correctness, validation, and dependable backend behavior.
 
-**B.Tech in Computer Science and Engineering · Class of 2025 · CGPA: 9.05**
+**SRMIST, Chennai**  
+B.Tech in Computer Science and Engineering · Class of 2025 · CGPA: 9.05
 
 ## What I'm exploring
 
 - **AI reliability:** evaluating answers and agent behavior with structured quality checks.
 - **Backend engineering:** database internals, asynchronous workflows, and system design.
-- **Product development:** turning a useful idea into a clear workflow, then improving it through feedback.
+- **Product thinking:** understanding customer problems, prioritizing useful features, and improving workflows through feedback. I have a strong interest in product management and AI PM; backend and AI engineering remain my primary career focus.
 
 ## Connect
 
-I'm interested in software engineering opportunities and collaboration on AI tools, backend systems, and useful developer products.
+I'm open to **full-time backend and AI engineering roles** and **freelance work** on backend systems, AI tooling, and web products.
 
-**[Visit my portfolio →](https://priyanka-dash-portfolio.vercel.app/)**
+For opportunities and project enquiries, [connect with me on LinkedIn](https://www.linkedin.com/in/priyanka-dash-6aaa9b223/).
+
+[Portfolio](https://priyanka-dash-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/priyanka-dash-6aaa9b223/) · [LeetCode](https://leetcode.com/u/priyanka_0612/) · [X](https://x.com/us_moments_girl)
 
 <sub>Selected repositories above are the best starting point for exploring my work.</sub>
